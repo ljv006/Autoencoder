@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b273e34-b4e4-4be9-9ed8-d75db397c44b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LSTM.py" afterPath="$PROJECT_DIR$/LSTM.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LSTM.py" afterPath="$PROJECT_DIR$/lstm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
